@@ -1,0 +1,8 @@
+This is my attempt at implementing the agent that would use Reinforcement Learning to learn to play Tetris.
+
+I read the paper that is talking about it, and apparently people were successful at it.
+At this point (Nov. 27 2013) I am working on the board that will implement all the rules of the Tetris so that agent has the environment.
+
+For this first commit I almost have game working. All that is left to implement is choosing of the tetromino, collision resolution and board update after collision. Scoring and deletion of lines if any is completed.
+
+
